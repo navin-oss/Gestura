@@ -78,12 +78,10 @@ python main.py
 
 ## 📸 Preview
 
-| Effect    | Example                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------ |
-| Fire      | ![fire-demo](https://user-images.githubusercontent.com/your-demo-image-fire.gif)           |
-| Lightning | ![lightning-demo](https://user-images.githubusercontent.com/your-demo-image-lightning.gif) |
-
-*(You can add your demo GIFs or screenshots here)*
+| Effect    | Example                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------- |
+| Fire      | <img width="787" height="603" alt="Screenshot 2025-10-18 224448" src="https://github.com/user-attachments/assets/0c1147c6-a7ff-4180-b2d0-a8ba14e420f4" /> |
+| Lightning | <img width="798" height="619" alt="Screenshot 2025-10-18 224619" src="https://github.com/user-attachments/assets/74b07339-ef20-4fb6-b07d-fb662b38ef4e" /> |
 
 ---
 

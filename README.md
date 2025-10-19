@@ -134,7 +134,4 @@ This modular design makes it easy to add new effects by editing the `col_pal` an
 > “Detect hands. Add effects. Make it cinematic — all in Python.”
 
 
----
 
-Would you like me to include a **`requirements.txt`** file for easy installation (so users can just run `pip install -r requirements.txt`)?
-```
